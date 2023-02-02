@@ -24,4 +24,4 @@ ___
 ## 📌 Resultado do Projeto:---
 
 <br>
-<img src="https://github.com/devpbleite/qr-code-app/blob/main/screen.png" width="70%"><br><br>
+<p align="center"><img src="https://github.com/devpbleite/qr-code-app/blob/main/screen.png" width="50%"><br><br></p>
